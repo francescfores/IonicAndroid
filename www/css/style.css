@@ -1,0 +1,5 @@
+/* Empty. Add your own CSS if you like */
+.card .item.item-input input, .list-inset .item.item-input input, .padding > .list .item.item-input input, .padding-horizontal > .list .item.item-input input {
+    padding-right: 84px;
+    margin-left: 50px;
+}
